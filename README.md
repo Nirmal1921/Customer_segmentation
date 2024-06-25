@@ -37,7 +37,7 @@ Step 1. Cloning the repository.
 
 ```
 
-git clone https://github.com/Machine-Learning-01/Customer_segmentation.git
+git clone https://github.com/Nirmal1921/Customer_segmentation.git
 
 ```
 
@@ -163,4 +163,4 @@ From these above models after hyperparameter optimization we selected these two 
 
 - This Project can be used in real-life by Users.
 
-Author - Hrisikesh Neogi
+
